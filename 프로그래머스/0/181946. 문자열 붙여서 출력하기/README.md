@@ -1,6 +1,6 @@
 # [level 0] 문자열 붙여서 출력하기 - 181946 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 03월 11일 17:51:56
+2025년 03월 11일 17:57:05
 
 ### 문제 설명
 
